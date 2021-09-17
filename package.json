@@ -1,15 +1,35 @@
 {
   "name": "discord-message-logger",
-  "version": "1.0.5",
-  "description": "",
+  "version": "1.0.6",
+  "description": "Simple discord message logger to report messages.",
   "main": "lib/index.js",
   "types": "lib",
   "scripts": {
     "build": "tsc -p ."
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "discord",
+    "discord.js",
+    "bot",
+    "report",
+    "node",
+    "discordapp",
+    "api"
+  ],
+  "author": "Leon Enneken <contact@es-intern.de>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShortByte/discord-message-logger.git"
+  },
+  "homepage": "https://github.com/ShortByte/discord-message-logger#readme",
+  "bugs": {
+    "url": "https://github.com/ShortByte/discord-message-logger/issues"
+  },
+  "engines": {
+    "node": ">=16.6.0",
+    "npm": ">=7.0.0"
+  },
   "devDependencies": {
     "typescript": "^4.4.3"
   },
