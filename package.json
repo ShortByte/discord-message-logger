@@ -1,6 +1,6 @@
 {
   "name": "discord-message-logger",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Simple discord message logger to report messages.",
   "main": "lib/index.js",
   "types": "lib",
