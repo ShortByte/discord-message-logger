@@ -3,7 +3,7 @@ import axios from 'axios';
 
 export class MessageLogger {
 
-  private uri: string = 'http://localhost:3000';
+  private uri: string = 'https://message-logger.dev.shortbyte.me';
 
   private accessToken: string;
 
