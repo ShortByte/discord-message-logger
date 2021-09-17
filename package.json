@@ -1,0 +1,20 @@
+{
+  "name": "discord-message-logger",
+  "version": "1.0.4",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "discord.js": "^13.1.0"
+  }
+}
